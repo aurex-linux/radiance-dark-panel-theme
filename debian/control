@@ -1,0 +1,12 @@
+Source: radiance-dark-panel-theme
+Section: gnome
+Priority: optional
+Maintainer: Luis Antonio Garcia Gisbert <luisgg@gmail.com>
+Build-Depends: debhelper (>= 7.0)
+Standards-Version: 3.8.4
+
+Package: radiance-dark-panel-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Radiance Dark Panel theme
+ Radiance Dark Panel theme for gtk-2.0, gtk-3.0, metacity-1 and unity
