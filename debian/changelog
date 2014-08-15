@@ -1,3 +1,9 @@
+radiance-dark-panel-theme (12.07.01-0aurex2) trusty; urgency=medium
+
+  * Rebuild for aurex 14.04 (trusty)
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Fri, 15 Aug 2014 04:58:30 +0200
+
 radiance-dark-panel-theme (12.07.01-0aurex1) precise; urgency=low
 
   * Initial release.
